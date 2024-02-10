@@ -1,0 +1,11 @@
+streamlit
+pandas
+matplotlib
+google-play-scraper
+Sastrawi
+wordcloud
+numpy
+seaborn
+nltk
+re
+sklearn
